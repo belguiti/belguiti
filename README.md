@@ -23,7 +23,11 @@
 </p>
 
 
-<p align="center">Graduate in Software Quality and Information Systems Security with experience in marketing, automation, and performance optimization, problem solver with great attention to details.</p> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="60%"><br>
+  <em>Graduate in <strong>Software Quality & Information Systems Security</strong> with experience in marketing, automation, and performance optimization — a problem solver with exceptional attention to detail.</em><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="60%">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2bbc8a&height=2">
