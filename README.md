@@ -21,28 +21,6 @@
 
 
 <p align="center">Graduate in Software Quality and Information Systems Security with experience in marketing, automation, and performance optimization, problem solver with great attention to details.</p> 
-## ⚙️ Tech Stack
-
-<p align="center">
-
-<!-- Backend -->
-<img height="50" src="https://skillicons.dev/icons?i=java,spring,idea,mysql,postgres" />
-
-<!-- Frontend -->
-<br>
-<img height="50" src="https://skillicons.dev/icons?i=angular,html,css,ts,bootstrap" />
-
-<!-- DevOps / Tools -->
-<br>
-<img height="50" src="https://skillicons.dev/icons?i=git,github,postman,linux,docker" />
-
-<!-- Automation / OCR -->
-<br>
-<img height="50" src="https://img.shields.io/badge/OCR-ABBYY-red?style=for-the-badge" />
-<img height="50" src="https://img.shields.io/badge/RPA-UiPath-blue?style=for-the-badge" />
-
-</p>
-
 ---
 
 ### <p align="center"> :hammer_and_wrench: Languages & Tools I use : </p>
