@@ -2,6 +2,9 @@
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2bbc8a&height=250&section=header&text=Azeddine%20BELGUITI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
 - 🔭 I’m currently working as a Freelance Back-End Developer (Spring Boot, Security, Keycloak)
 - 🌱 I’m currently training in Full Stack Development at Arkx Talent Factory (Java/Angular)
@@ -9,11 +12,36 @@
 - 🔐 Interested in software quality, system security and application performance optimization
 - 👯 I’m looking to collaborate on full stack projects and automation solutions
 - 🤔 I’m open to new opportunities as a Full Stack or Back-End Developer
+- 📈 Continuous learning: AI, system security, software quality  
 - 💬 Ask me about Java, Spring Boot, Angular, OCR/RPA, automation, or app optimization
 - 📫 How to reach me: azeddine.belguiti@usmba.ac.ma
 - 😄 Pronouns: Zerbion
 
+
+
+
 <p align="center">Graduate in Software Quality and Information Systems Security with experience in marketing, automation, and performance optimization, problem solver with great attention to details.</p> 
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<!-- Backend -->
+<img height="50" src="https://skillicons.dev/icons?i=java,spring,idea,mysql,postgres" />
+
+<!-- Frontend -->
+<br>
+<img height="50" src="https://skillicons.dev/icons?i=angular,html,css,ts,bootstrap" />
+
+<!-- DevOps / Tools -->
+<br>
+<img height="50" src="https://skillicons.dev/icons?i=git,github,postman,linux,docker" />
+
+<!-- Automation / OCR -->
+<br>
+<img height="50" src="https://img.shields.io/badge/OCR-ABBYY-red?style=for-the-badge" />
+<img height="50" src="https://img.shields.io/badge/RPA-UiPath-blue?style=for-the-badge" />
+
+</p>
 
 ---
 
@@ -38,7 +66,20 @@
 
   </div>
 
-  
+  ## 📌 Featured Projects
+
+### 🔹 **OCR & RPA Automation System**
+> ABBYY FlexiCapture + UiPath  
+![Tech](https://img.shields.io/badge/Tech-OCR/RPA-green?style=flat-square)
+
+### 🔹 **Parcel Tracking Web App**
+> Spring Boot + Angular + MySQL  
+![Stack](https://img.shields.io/badge/FullStack-Java%20%7C%20Angular-blue?style=flat-square)
+
+### 🔹 **E-Commerce Platform**
+> JEE + Hibernate + SQL Server  
+![Ecom](https://img.shields.io/badge/E--Commerce-WebApp-orange?style=flat-square)
+
 ---
 
 <!-- 🔥 Animated Badges -->
@@ -63,4 +104,7 @@
   <div align="center">
     <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belguiti&theme=dracula">
   </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2bbc8a&height=200&section=footer" />
+</p>
 
