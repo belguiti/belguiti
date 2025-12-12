@@ -18,10 +18,16 @@
 - 😄 Pronouns: Zerbion
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2bbc8a&height=2">
+</p>
 
 
 <p align="center">Graduate in Software Quality and Information Systems Security with experience in marketing, automation, and performance optimization, problem solver with great attention to details.</p> 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2bbc8a&height=2">
+</p>
 
 ### <p align="center"> :hammer_and_wrench: Languages & Tools I use : </p>
   <div align="center">
@@ -43,6 +49,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
 
   </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2bbc8a&height=2">
+</p>
 
   ## 📌 Featured Projects
 
@@ -58,7 +67,10 @@
 > JEE + Hibernate + SQL Server  
 ![Ecom](https://img.shields.io/badge/E--Commerce-WebApp-orange?style=flat-square)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2bbc8a&height=2">
+</p>
+
 
 <!-- 🔥 Animated Badges -->
 <p align="center">
