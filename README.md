@@ -1,7 +1,6 @@
 
 
 
-**belguiti/belguiti** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 
 - 🔭 I’m currently working as a Freelance Back-End Developer (Spring Boot, Security, Keycloak)
