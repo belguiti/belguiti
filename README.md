@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**belguiti/belguiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**belguiti/belguiti** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
-- 🔭 I’m currently Internship at Eurafric Information 
-- 🌱 I’m currently learning generative AI & Testing Fundamental "Preparing for ISTQB certificate"
-- 👯 I’m looking to collaborate on Email Marketing strategy
-- 🤔 I'm looking for opportunity as full stack developer
-- 💬 Ask me about anything you need
+- 🔭 I’m currently working as a Freelance Back-End Developer (Spring Boot, Security, Keycloak)
+- 🌱 I’m currently training in Full Stack Development at Arkx Talent Factory (Java/Angular)
+- 🧠 I have hands-on experience in OCR & RPA solutions (ABBYY FlexiCapture, UiPath)
+- 🔐 Interested in software quality, system security and application performance optimization
+- 👯 I’m looking to collaborate on full stack projects and automation solutions
+- 🤔 I’m open to new opportunities as a Full Stack or Back-End Developer
+- 💬 Ask me about Java, Spring Boot, Angular, OCR/RPA, automation, or app optimization
 - 📫 How to reach me: azeddine.belguiti@usmba.ac.ma
 - 😄 Pronouns: Zerbion
 
