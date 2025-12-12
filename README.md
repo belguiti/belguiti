@@ -41,12 +41,12 @@
   
 ---
 
-### <p align="center"> &#x1f4c8; My Stats </p>
+### <p align="center"> 📈 My Stats </p>
 <div align="center">
   <img height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=belguiti&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=kotlin,html,tex,css,hack,HCL,Objective-C"/>
-  <img Height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=belguiti&show_icons=true&line_height=30&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-
+  <img height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=belguiti&show_icons=true&line_height=30&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </div>
+
 
   <div align="center">
     <img width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=belguiti&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
