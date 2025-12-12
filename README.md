@@ -41,11 +41,20 @@
   
 ---
 
-### <p align="center"> 📈 My Stats </p>
-<div align="center">
-  <img height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=belguiti&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=kotlin,html,tex,css,hack,HCL,Objective-C"/>
-  <img height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=belguiti&show_icons=true&line_height=30&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</div>
+<!-- 🔥 Animated Badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2BBC8A&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+Developer;Angular+%7C+Full+Stack+Engineer;OCR+%26+RPA+Automation;Software+Security+Enthusiast" />
+</p>
+
+<!-- 👀 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=belguiti&label=Visitors&color=2bbc8a&style=flat" />
+</p>
+
+<!-- 🔥 GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=belguiti&theme=tokyonight&hide_border=true" />
+</p>
 
 
   <div align="center">
